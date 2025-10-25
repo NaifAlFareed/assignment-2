@@ -5,8 +5,9 @@ Implements **dynamic content, data handling, animations, and AI-assisted develop
 
 ---
 
-## 🚀 Live Demo
-*(Optional)* GitHub Pages: <ADD YOUR DEPLOY LINK HERE>
+## 🔗 Live Demo
+
+View the running site here: <https://github.com/NaifAlFareed/assignment-1/blob/main/index.html>
 
 ---
 
