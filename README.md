@@ -33,8 +33,8 @@ assignment-2/
 ├── docs/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
-└── .gitignore```
-
+└── .gitignore
+```
 
 ---
 
@@ -48,7 +48,6 @@ assignment-2/
 | Animation / Transition | Smooth Fade & Motion        | Cards, buttons, and details use transitions and hover lift for clarity.       |
 | Error Handling         | Contact Form Validation     | Inline error messages + success banner without page reload.                   |
 | AI Enhancement         | Development + Documentation | AI (ChatGPT/Copilot) used for code review, accessibility, and docs.           |
-
 
 ---
 
