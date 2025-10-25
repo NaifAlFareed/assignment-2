@@ -10,25 +10,25 @@ Implements **dynamic content, data handling, animations, and AI-assisted develop
 
 ---
 
-## 📂 Structure
+## 📂 Project Structure
 
-
-
+```text
 assignment-2/
 ├── README.md
 ├── index.html
 ├── css/
-│ └── styles.css
+│   └── styles.css
 ├── js/
-│ └── script.js
+│   └── script.js
 ├── assets/
-│ └── images/
+│   └── images/
+│       ├── profile.jpg
+│       ├── project1-placeholder.jpg
+│       └── project2-placeholder.jpg
 ├── docs/
-│ ├── ai-usage-report.md
-│ └── technical-documentation.md
+│   ├── ai-usage-report.md
+│   └── technical-documentation.md
 └── .gitignore
-
-
 
 ---
 
