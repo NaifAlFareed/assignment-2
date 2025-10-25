@@ -3,7 +3,9 @@
 Enhanced responsive portfolio web application for SWE 363, built on top of Assignment 1.  
 Adds dynamic content, state persistence, animations, accessibility improvements, and AI-assisted development.
 
+
 ---
+
 
 ## 🔗 Live Demo
 
@@ -13,7 +15,9 @@ You can run it locally by opening `index.html` in any modern browser.
 *(Optional)* — if you deploy later via GitHub Pages:  
 **[View Live Demo](https://naifalfareed.github.io/assignment-2/)**
 
+
 ---
+
 
 ## 📂 Project Structure
 
@@ -36,7 +40,9 @@ assignment-2/
 └── .gitignore
 ```
 
+
 ---
+
 
 ## ✨ New Features in Assignment 2
 
@@ -49,7 +55,9 @@ assignment-2/
 | Error Handling         | Contact Form Validation     | Inline error messages + success banner without page reload.                   |
 | AI Enhancement         | Development + Documentation | AI (ChatGPT/Copilot) used for code review, accessibility, and docs.           |
 
+
 ---
+
 
 ## ▶ Run Locally
 1. Clone the repo:
@@ -60,10 +68,11 @@ cd assignment-2
 2. Open index.html in your browser (Chrome, Edge, Firefox, etc).
 No build tools or backend required — the site is pure HTML/CSS/JS.
 
+
 ---
 
-🧠 Documentation
 
+## 🧠 Documentation
 Technical Documentation: docs/technical-documentation.md
 
 AI Usage Report: docs/ai-usage-report.md
