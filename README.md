@@ -33,7 +33,7 @@ assignment-2/
 ├── docs/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
-└── .gitignore
+└── .gitignore```
 
 
 ---
